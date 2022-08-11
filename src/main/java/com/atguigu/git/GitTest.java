@@ -7,6 +7,7 @@ public class GitTest {
         System.out.println("HelloMaster");
         System.out.println("testHot" );
         System.out.println("SSH" );
+        System.out.println("push test" );
     }
 
 }
